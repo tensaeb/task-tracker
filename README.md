@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+The one on Brad Traversy's tutorial on youtube without backend just the frontend but not easy to do.  
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
